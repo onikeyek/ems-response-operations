@@ -1,0 +1,7 @@
+# Raw data is too large for GitHub - recreate it with ingest_ems_data.py
+*.csv
+# Never commit secrets
+.env
+# Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
