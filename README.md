@@ -113,4 +113,4 @@ Power BI Desktop.
 ## Author
 
 Dolapo (Naimot Yekini) - [GitHub](https://github.com/onikeyek) -
-[Portfolio]([https://onikeyek.github.io/NaimotYekini.github.io/])
+[Portfolio](https://onikeyek.github.io/NaimotYekini.github.io/)
